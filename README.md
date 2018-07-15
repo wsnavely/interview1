@@ -19,7 +19,8 @@ pip install -r requirements.txt
 python tides.py > out.json
 ```
 
-The format of the json output is:
+The script produces the low tide data in a json format. I did this because it generally is nicer 
+to have things in a structured format instead of an ad-hoc one. The format of the json output is:
 
 ```
 {
