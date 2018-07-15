@@ -82,6 +82,7 @@ if __name__ == "__main__":
     for loc in locations:
         url = url_template.format(loc)
         response = requests.get(url)
+        response.raise_for_status()
         json_result[loc] = [
             x._asdict()
             for x in daylight_low_tides(extract_tide_info(response.text))
