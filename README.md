@@ -4,9 +4,15 @@
 - Python 2
 - Python pip
 - requests
-    - pip install requests
+    - `pip install requests`
 - Beautifulsoup4
-    - pip install beautifulsoup4
+    - `pip install beautifulsoup4`
+
+You can also install the requirements from the requirements.txt file
+
+```
+pip install -r requirements.txt
+```
 
 ## Running
 ```
