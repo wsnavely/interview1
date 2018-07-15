@@ -1,0 +1,1146 @@
+{
+    "Half-Moon-Bay-California": [
+        {
+            "date": "Sunday 15 July", 
+            "time": "7:05 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "-0.41 m", 
+            "level_std": "-1.35 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 15 July", 
+            "time": "7:16 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.68 m", 
+            "level_std": "2.24 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 16 July", 
+            "time": "7:54 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "-0.28 m", 
+            "level_std": "-0.93 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 16 July", 
+            "time": "8:19 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.64 m", 
+            "level_std": "2.11 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 17 July", 
+            "time": "8:43 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "-0.11 m", 
+            "level_std": "-0.36 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 18 July", 
+            "time": "9:34 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.09 m", 
+            "level_std": "0.28 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 19 July", 
+            "time": "10:27 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.29 m", 
+            "level_std": "0.94 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 20 July", 
+            "time": "11:25 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.47 m", 
+            "level_std": "1.55 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 21 July", 
+            "time": "12:24 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.63 m", 
+            "level_std": "2.06 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 22 July", 
+            "time": "1:23 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.74 m", 
+            "level_std": "2.43 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 23 July", 
+            "time": "2:19 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.81 m", 
+            "level_std": "2.66 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 24 July", 
+            "time": "3:08 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.85 m", 
+            "level_std": "2.80 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 25 July", 
+            "time": "3:53 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.87 m", 
+            "level_std": "2.85 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 26 July", 
+            "time": "4:34 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.87 m", 
+            "level_std": "2.86 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 27 July", 
+            "time": "5:12 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.87 m", 
+            "level_std": "2.84 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 28 July", 
+            "time": "5:49 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.85 m", 
+            "level_std": "2.80 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 29 July", 
+            "time": "6:25 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "-0.07 m", 
+            "level_std": "-0.22 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 29 July", 
+            "time": "6:26 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.84 m", 
+            "level_std": "2.75 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 30 July", 
+            "time": "6:57 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "-0.02 m", 
+            "level_std": "-0.06 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 30 July", 
+            "time": "7:05 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.81 m", 
+            "level_std": "2.67 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 31 July", 
+            "time": "7:30 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.05 m", 
+            "level_std": "0.17 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 31 July", 
+            "time": "7:49 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.78 m", 
+            "level_std": "2.55 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 1 August", 
+            "time": "8:05 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.15 m", 
+            "level_std": "0.50 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 2 August", 
+            "time": "8:43 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.27 m", 
+            "level_std": "0.90 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 3 August", 
+            "time": "9:26 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.41 m", 
+            "level_std": "1.36 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 4 August", 
+            "time": "10:17 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.56 m", 
+            "level_std": "1.83 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 5 August", 
+            "time": "11:16 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.69 m", 
+            "level_std": "2.25 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 6 August", 
+            "time": "12:21 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.78 m", 
+            "level_std": "2.55 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 7 August", 
+            "time": "1:26 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.82 m", 
+            "level_std": "2.68 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 8 August", 
+            "time": "2:27 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.81 m", 
+            "level_std": "2.65 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 9 August", 
+            "time": "3:23 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.76 m", 
+            "level_std": "2.49 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 10 August", 
+            "time": "4:17 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.69 m", 
+            "level_std": "2.27 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 11 August", 
+            "time": "5:10 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.62 m", 
+            "level_std": "2.02 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 12 August", 
+            "time": "6:03 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.55 m", 
+            "level_std": "1.79 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 13 August", 
+            "time": "6:42 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "-0.21 m", 
+            "level_std": "-0.68 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 13 August", 
+            "time": "6:58 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.49 m", 
+            "level_std": "1.61 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 14 August", 
+            "time": "7:26 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "-0.05 m", 
+            "level_std": "-0.17 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 14 August", 
+            "time": "7:56 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.45 m", 
+            "level_std": "1.48 feet", 
+            "event": "Low Tide"
+        }
+    ], 
+    "Huntington-Beach": [
+        {
+            "date": "Sunday 15 July", 
+            "time": "5:53 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "-0.01 meters", 
+            "level_std": "-0.03 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 15 July", 
+            "time": "5:35 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.94 meters", 
+            "level_std": "3.08 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 16 July", 
+            "time": "6:40 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.13 meters", 
+            "level_std": "0.43 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 16 July", 
+            "time": "6:40 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.97 meters", 
+            "level_std": "3.18 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 17 July", 
+            "time": "7:28 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.32 meters", 
+            "level_std": "1.05 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 17 July", 
+            "time": "7:55 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.98 meters", 
+            "level_std": "3.22 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 18 July", 
+            "time": "8:18 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.51 meters", 
+            "level_std": "1.67 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 19 July", 
+            "time": "9:11 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.70 meters", 
+            "level_std": "2.30 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 20 July", 
+            "time": "10:09 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.86 meters", 
+            "level_std": "2.82 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 21 July", 
+            "time": "11:09 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.97 meters", 
+            "level_std": "3.18 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 22 July", 
+            "time": "12:05 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.04 meters", 
+            "level_std": "3.41 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 23 July", 
+            "time": "12:54 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.07 meters", 
+            "level_std": "3.51 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 24 July", 
+            "time": "1:36 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.07 meters", 
+            "level_std": "3.51 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 25 July", 
+            "time": "2:13 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.05 meters", 
+            "level_std": "3.45 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 26 July", 
+            "time": "2:49 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.03 meters", 
+            "level_std": "3.38 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 27 July", 
+            "time": "3:23 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.01 meters", 
+            "level_std": "3.31 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 28 July", 
+            "time": "3:58 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.01 meters", 
+            "level_std": "3.31 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 29 July", 
+            "time": "4:34 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.02 meters", 
+            "level_std": "3.35 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 30 July", 
+            "time": "5:12 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.03 meters", 
+            "level_std": "3.38 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 31 July", 
+            "time": "6:07 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.45 meters", 
+            "level_std": "1.48 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 31 July", 
+            "time": "5:54 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.06 meters", 
+            "level_std": "3.48 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 1 August", 
+            "time": "6:36 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.56 meters", 
+            "level_std": "1.84 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 1 August", 
+            "time": "6:46 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.07 meters", 
+            "level_std": "3.51 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 2 August", 
+            "time": "7:06 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.67 meters", 
+            "level_std": "2.20 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 3 August", 
+            "time": "7:40 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.79 meters", 
+            "level_std": "2.59 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 4 August", 
+            "time": "8:25 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.91 meters", 
+            "level_std": "2.99 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 5 August", 
+            "time": "9:27 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.01 meters", 
+            "level_std": "3.31 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 6 August", 
+            "time": "10:44 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.06 meters", 
+            "level_std": "3.48 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 7 August", 
+            "time": "11:56 AM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.06 meters", 
+            "level_std": "3.48 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 8 August", 
+            "time": "12:58 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "1.00 meters", 
+            "level_std": "3.28 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 9 August", 
+            "time": "1:54 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.93 meters", 
+            "level_std": "3.05 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 10 August", 
+            "time": "2:46 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.84 meters", 
+            "level_std": "2.76 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 11 August", 
+            "time": "3:37 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.78 meters", 
+            "level_std": "2.56 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 12 August", 
+            "time": "4:29 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.74 meters", 
+            "level_std": "2.43 ft", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 13 August", 
+            "time": "5:23 PM", 
+            "time_zone": "PDT", 
+            "level_metric": "0.74 meters", 
+            "level_std": "2.43 ft", 
+            "event": "Low Tide"
+        }
+    ], 
+    "Providence-Rhode-Island": [
+        {
+            "date": "Sunday 15 July", 
+            "time": "4:05 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.14 m", 
+            "level_std": "-0.45 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 16 July", 
+            "time": "4:56 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.06 m", 
+            "level_std": "-0.21 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 17 July", 
+            "time": "5:47 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.04 m", 
+            "level_std": "0.12 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 18 July", 
+            "time": "6:11 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.00 m", 
+            "level_std": "0.00 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 18 July", 
+            "time": "6:39 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.15 m", 
+            "level_std": "0.50 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 19 July", 
+            "time": "6:59 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.10 m", 
+            "level_std": "0.33 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 19 July", 
+            "time": "7:36 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.26 m", 
+            "level_std": "0.85 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 20 July", 
+            "time": "7:50 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.19 m", 
+            "level_std": "0.61 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 21 July", 
+            "time": "8:46 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.24 m", 
+            "level_std": "0.78 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 22 July", 
+            "time": "9:40 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.26 m", 
+            "level_std": "0.84 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 23 July", 
+            "time": "10:30 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.25 m", 
+            "level_std": "0.81 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 24 July", 
+            "time": "11:16 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.23 m", 
+            "level_std": "0.74 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 25 July", 
+            "time": "12:00 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.20 m", 
+            "level_std": "0.65 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 26 July", 
+            "time": "12:45 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.17 m", 
+            "level_std": "0.56 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 27 July", 
+            "time": "1:31 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.15 m", 
+            "level_std": "0.49 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 28 July", 
+            "time": "2:16 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.13 m", 
+            "level_std": "0.44 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 29 July", 
+            "time": "3:00 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.12 m", 
+            "level_std": "0.40 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 30 July", 
+            "time": "3:42 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.12 m", 
+            "level_std": "0.38 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 31 July", 
+            "time": "4:24 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.12 m", 
+            "level_std": "0.39 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 1 August", 
+            "time": "5:06 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.13 m", 
+            "level_std": "0.44 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 2 August", 
+            "time": "5:51 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.16 m", 
+            "level_std": "0.51 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 3 August", 
+            "time": "6:12 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.06 m", 
+            "level_std": "0.19 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 3 August", 
+            "time": "6:42 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.19 m", 
+            "level_std": "0.61 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 4 August", 
+            "time": "7:02 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.08 m", 
+            "level_std": "0.27 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 4 August", 
+            "time": "7:40 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.20 m", 
+            "level_std": "0.67 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 5 August", 
+            "time": "8:00 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.09 m", 
+            "level_std": "0.31 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 6 August", 
+            "time": "9:02 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.08 m", 
+            "level_std": "0.26 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 7 August", 
+            "time": "10:05 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.03 m", 
+            "level_std": "0.10 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 8 August", 
+            "time": "11:05 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.03 m", 
+            "level_std": "-0.11 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 9 August", 
+            "time": "12:04 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.10 m", 
+            "level_std": "-0.32 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 10 August", 
+            "time": "1:03 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.15 m", 
+            "level_std": "-0.49 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 11 August", 
+            "time": "2:01 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.18 m", 
+            "level_std": "-0.59 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 12 August", 
+            "time": "2:57 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.19 m", 
+            "level_std": "-0.61 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 13 August", 
+            "time": "3:49 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.16 m", 
+            "level_std": "-0.51 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 14 August", 
+            "time": "4:37 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.09 m", 
+            "level_std": "-0.28 feet", 
+            "event": "Low Tide"
+        }
+    ], 
+    "Wrightsville-Beach-North-Carolina": [
+        {
+            "date": "Sunday 15 July", 
+            "time": "3:59 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.24 m", 
+            "level_std": "-0.78 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 16 July", 
+            "time": "4:53 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.16 m", 
+            "level_std": "-0.53 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 17 July", 
+            "time": "5:52 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.06 m", 
+            "level_std": "-0.21 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 18 July", 
+            "time": "6:34 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.09 m", 
+            "level_std": "-0.30 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 18 July", 
+            "time": "6:58 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.03 m", 
+            "level_std": "0.10 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 19 July", 
+            "time": "7:35 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.04 m", 
+            "level_std": "-0.13 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 19 July", 
+            "time": "8:08 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.10 m", 
+            "level_std": "0.32 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 20 July", 
+            "time": "8:33 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.00 m", 
+            "level_std": "-0.01 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 21 July", 
+            "time": "9:26 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.02 m", 
+            "level_std": "0.06 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 22 July", 
+            "time": "10:14 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.03 m", 
+            "level_std": "0.10 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 23 July", 
+            "time": "11:00 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.04 m", 
+            "level_std": "0.14 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 24 July", 
+            "time": "11:43 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.05 m", 
+            "level_std": "0.16 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 25 July", 
+            "time": "12:27 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.05 m", 
+            "level_std": "0.17 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 26 July", 
+            "time": "1:11 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.05 m", 
+            "level_std": "0.17 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 27 July", 
+            "time": "1:53 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.05 m", 
+            "level_std": "0.17 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 28 July", 
+            "time": "2:33 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.05 m", 
+            "level_std": "0.18 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 29 July", 
+            "time": "3:11 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.07 m", 
+            "level_std": "0.22 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 30 July", 
+            "time": "3:47 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.09 m", 
+            "level_std": "0.30 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 31 July", 
+            "time": "4:23 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.13 m", 
+            "level_std": "0.42 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 1 August", 
+            "time": "5:02 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.17 m", 
+            "level_std": "0.55 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 2 August", 
+            "time": "5:49 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.21 m", 
+            "level_std": "0.70 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 3 August", 
+            "time": "6:49 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.25 m", 
+            "level_std": "0.81 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 4 August", 
+            "time": "7:07 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.10 m", 
+            "level_std": "0.32 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 4 August", 
+            "time": "8:01 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.25 m", 
+            "level_std": "0.82 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 5 August", 
+            "time": "8:08 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.07 m", 
+            "level_std": "0.24 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 6 August", 
+            "time": "9:08 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "0.02 m", 
+            "level_std": "0.08 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 7 August", 
+            "time": "10:06 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.04 m", 
+            "level_std": "-0.12 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Wednesday 8 August", 
+            "time": "11:02 AM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.10 m", 
+            "level_std": "-0.33 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Thursday 9 August", 
+            "time": "12:00 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.16 m", 
+            "level_std": "-0.51 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Friday 10 August", 
+            "time": "12:59 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.20 m", 
+            "level_std": "-0.67 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Saturday 11 August", 
+            "time": "1:57 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.23 m", 
+            "level_std": "-0.77 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Sunday 12 August", 
+            "time": "2:51 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.23 m", 
+            "level_std": "-0.77 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Monday 13 August", 
+            "time": "3:43 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.20 m", 
+            "level_std": "-0.65 feet", 
+            "event": "Low Tide"
+        }, 
+        {
+            "date": "Tuesday 14 August", 
+            "time": "4:35 PM", 
+            "time_zone": "EDT", 
+            "level_metric": "-0.12 m", 
+            "level_std": "-0.39 feet", 
+            "event": "Low Tide"
+        }
+    ]
+}
